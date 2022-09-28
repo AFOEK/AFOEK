@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋, it's a me AFÖÉK
 
-<!--
-**AFOEK/AFOEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+A mere mortal, not interested for human emotion but can really attached into another human emotion. Proud :indonesia:, interested Geo-Politics issue, macro economy, bleeding edge computation, average Linux user, BSD wannabe user, x86_64 arch and Armhf arch user.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+---
+
+### Programing Language
+</br>
+
+![C++](https://cdn-icons-png.flaticon.com/24/6132/6132222.png)   
+![Java](https://cdn-icons-png.flaticon.com/24/226/226777.png)   
+![C#](https://cdn-icons-png.flaticon.com/24/6132/6132221.png)   
+![py](https://cdn-icons-png.flaticon.com/24/5968/5968350.png)   
+![asm](https://cdn-icons-png.flaticon.com/24/1088/1088504.png)
