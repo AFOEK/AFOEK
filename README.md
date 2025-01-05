@@ -16,6 +16,7 @@ Really have weird knownledge about computers and others, like to learn new stuff
 6. Moderate Linux knownledge especially system management
 7. Comfortable with GCP and AWS platforms.
 8. Have great experiences using LaTeX.
+9. Comfortable handling x86 devices (Windows, Linux, macOS, and FreeBSD) and arm (Raspberry pi 4 and 400)
 
 ### Programing Language
 
@@ -30,3 +31,7 @@ Really have weird knownledge about computers and others, like to learn new stuff
 [![AFOEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFOEK&show_icons=true&show=reviews,discussions_started,discussions_answered)](https://github.com/AFOEK/github-readme-stats)   
 
 [![AFOEK's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AFOEK&hide=jupyter%20notebook&langs_count=10&layout=donut-vertical)](https://github.com/AFOEK/github-readme-stats)
+
+### Miscs
+
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/montalfu/SS4Yt/10000024/5624020/) [![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/felix-montalfu-263668172)
