@@ -29,4 +29,4 @@ Really have weird knownledge about computers and others, like to learn new stuff
 
 [![AFOEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFOEK&show_icons=true&show=reviews,discussions_started,discussions_answered)](https://github.com/AFOEK/github-readme-stats)   
 
-[![AFOEK's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AFOEK&langs_count=10&layout=donut-vertical)](https://github.com/AFOEK/github-readme-stats)
+[![AFOEK's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AFOEK&hide=jupyter%20notebook&langs_count=10&layout=donut-vertical)](https://github.com/AFOEK/github-readme-stats)
