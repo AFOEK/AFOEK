@@ -2,9 +2,9 @@
 
 ## Introduction
 
-A mere mortal, hard to express human emotion but can really attached into another human emotion. Proud :indonesia:, interested Geo-Politics issue, macro economy, bleeding edge computation, average Linux user, FreeBSD wannabe user, x86_64 and Armhf user.
+A mere mortal, hard to express human emotion but can really attached to another human emotion. Proud :indonesia:, interested in Geo-Politics issue, macro economy, bleeding edge computation. Average Linux user, FreeBSD wannabe user, x86_64 and Armhf user.
 
-Really have weird knownledge about computers and others, like to learn new stuff, really passionate in Genshin Impact.
+Got weird knowledges about computers and others, like to learn about new stuff, and really passionate in Genshin Impact.
 
 ## Skills
 
@@ -18,7 +18,7 @@ Really have weird knownledge about computers and others, like to learn new stuff
 8. Have great experiences using LaTeX.
 9. Comfortable handling x86 devices (Windows, Linux, macOS, and FreeBSD) and arm (Raspberry pi 4 and 400)
 
-### Programing Language
+## Programing Language
 
 ![C++](https://cdn-icons-png.flaticon.com/24/6132/6132222.png) ⭐⭐⭐⭐  
 ![Java](https://cdn-icons-png.flaticon.com/24/226/226777.png) ⭐⭐⭐  
@@ -26,12 +26,12 @@ Really have weird knownledge about computers and others, like to learn new stuff
 ![py](https://cdn-icons-png.flaticon.com/24/5968/5968350.png) ⭐⭐⭐⭐  
 ![asm](https://cdn-icons-png.flaticon.com/24/1088/1088504.png) ⭐⭐
 
-### Stats
+## Stats
 
 [![AFOEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFOEK&show_icons=true&show=reviews,discussions_started,discussions_answered)](https://github.com/AFOEK/github-readme-stats)   
 
 [![AFOEK's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AFOEK&hide=jupyter%20notebook&langs_count=10&layout=donut-vertical)](https://github.com/AFOEK/github-readme-stats)
 
-### Miscs
+## Miscs
 
 [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/montalfu/SS4Yt/10000024/5624020/) [![](https://img.shields.io/badge/linkedin-0a66c2)](www.linkedin.com/in/felix-montalfu-263668172)
